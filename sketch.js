@@ -13,10 +13,10 @@ var car1 , car2 , car3 , car4;
 var car1img , car2img , car3img , car4img , groundimg , trackimg;
 var cars;
 function preload(){
-   car1img = loadImage("car1.png");
-   car2img = loadImage("car2.png");
-   car3img = loadImage("car3.png");
-   car4img = loadImage("car4.png");
+   car1img = loadImage("giphy.gif");
+   car2img = loadImage("giphy.gif");
+   car3img = loadImage("giphy.gif");
+   car4img = loadImage("giphy.gif");
 
    groundimg = loadImage("ground.png");
    trackimg = loadImage("track.jpg");
