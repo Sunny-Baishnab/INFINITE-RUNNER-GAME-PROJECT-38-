@@ -27,7 +27,7 @@ class Game {
       form = new Form()
       form.display();
     }
-    car1 = createSprite(100,200);
+    car1 = createSprite(50,200);
     car1.addImage("car1",car1img);
     car1.scale = 0.5;
     car2 = createSprite(300,200);
